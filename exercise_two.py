@@ -1,16 +1,6 @@
 retangulo = 'R'
 circulo = 'C'
 quadrado = 'Q'
-lado_ret = 0
-altura_ret = 0
-lado_quad = 0
-raio_circ = 0
-area_quadrado = 0
-perimetro_quadrado = 0
-area_retangulo = 0
-perimetro_retangulo = 0
-area_circulo = 0
-perimetro_circulo = 0
 numero_pi = 3.14
 
 print('Olá, seja bem vindo ao programa que calcula área de figuras geométricas')
